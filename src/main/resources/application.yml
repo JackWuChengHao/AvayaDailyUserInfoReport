@@ -1,0 +1,30 @@
+spring:
+  profiles:
+    active: prod
+  logging:
+    config: classpath:log4j.properties
+  datasource: 
+    dirver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://10.254.81.14:1433;DatabaseName=ACCCM
+    username: wsreports
+    password: Windstream3$!
+    dbcp2:
+      max-wait-millis: 10000
+      min-idle: 5
+      initial-size: 5
+      validation-query: SELECT x
+      connection-properties: 
+          characterEncoding: utf8
+  mail:
+    host: 140.143.234.38
+    port: 25
+    username: xiaowu@xiaowuhei.xyz
+    password: test
+    smtp:
+      auth: true
+
+email:
+  username: xiaowu@xiaowuhei.xyz
+  subject: Avaya_User_Report
+  text: <h4>Hi</h4><p style="text-indent:2cm;">The attchment is Avaya_User'dailyReport.</p> 
+  receivers: xiaosun@xiaowuhei.xyz,xiaoji@xiaowuhei.xyz,xiaozhang@xiaowuhei.xyz,xiaoli@xiaowuhei.xyz

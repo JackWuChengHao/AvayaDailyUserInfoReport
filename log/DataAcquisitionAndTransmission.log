@@ -1,0 +1,597 @@
+2018-08-05 23:30:58 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-10 14:11:12 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 08:47:00 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 08:48:00 INFO  ScheduledTasks:25 - before task
+2018-08-13 08:48:20 INFO  PackagingAttchment:55 - 16064
+2018-08-13 08:48:20 INFO  SendEmail:31 - send begin
+2018-08-13 08:48:23 INFO  SendEmail:52 - send over
+2018-08-13 08:48:23 INFO  DaoUtil:47 - deleteAvaya_User_Report_08132018.xlssuccess
+2018-08-13 08:48:23 INFO  ScheduledTasks:30 - end task
+2018-08-13 09:14:08 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:14:50 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:15:00 INFO  ScheduledTasks:25 - before task
+2018-08-13 09:15:32 INFO  PackagingAttchment:55 - 16064
+2018-08-13 09:15:32 INFO  SendEmail:31 - send begin
+2018-08-13 09:15:34 INFO  SendEmail:52 - send over
+2018-08-13 09:15:34 INFO  DaoUtil:47 - deleteAvaya_User_Report_08132018.xlssuccess
+2018-08-13 09:15:34 INFO  ScheduledTasks:30 - end task
+2018-08-13 09:17:57 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:18:14 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:19:00 INFO  ScheduledTasks:25 - before task
+2018-08-13 09:19:21 INFO  PackagingAttchment:55 - 16064
+2018-08-13 09:19:22 INFO  SendEmail:31 - send begin
+2018-08-13 09:44:29 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:45:00 INFO  ScheduledTasks:25 - before task
+2018-08-13 09:45:37 INFO  PackagingAttchment:55 - 16064
+2018-08-13 09:45:38 INFO  SendEmail:31 - send begin
+2018-08-13 09:45:42 INFO  SendEmail:52 - send over
+2018-08-13 09:45:42 INFO  DaoUtil:47 - deleteAvaya_User_Report_08132018.xlssuccess
+2018-08-13 09:45:42 INFO  ScheduledTasks:30 - end task
+2018-08-13 09:50:17 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:50:30 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:50:48 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:51:00 INFO  ScheduledTasks:25 - before task
+2018-08-13 09:51:03 INFO  QueryExceute:70 - com.microsoft.sqlserver.jdbc.SQLServerException: Cannot open database "ACCCM.dao" requested by the login. The login failed. ClientConnectionId:680d233a-9f22-4563-9097-0f2e111ef69d
+2018-08-13 09:51:03 INFO  PackagingAttchment:55 - 0
+2018-08-13 09:51:03 INFO  SendEmail:31 - send begin
+2018-08-13 09:51:04 INFO  SendEmail:52 - send over
+2018-08-13 09:51:04 INFO  ScheduledTasks:30 - end task
+2018-08-13 09:57:40 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-13 09:58:00 INFO  ScheduledTasks:25 - before task
+2018-08-13 09:58:20 INFO  PackagingAttchment:55 - 16064
+2018-08-13 09:58:21 INFO  SendEmail:31 - send begin
+2018-08-13 09:58:24 INFO  SendEmail:52 - send over
+2018-08-13 09:58:24 INFO  ScheduledTasks:30 - end task
+2018-08-13 10:32:26 INFO  DataAcquisitionAndTransmissionApplication:17 - the application run success.
+2018-08-13 10:33:19 INFO  DataAcquisitionAndTransmissionApplication:17 - the application run success.
+2018-08-13 10:35:10 INFO  DataAcquisitionAndTransmissionApplication:17 - the application run success.
+2018-08-13 10:36:10 INFO  DataAcquisitionAndTransmissionApplication:17 - the application run success.
+2018-08-15 08:55:29 INFO  DataAcquisitionAndTransmissionApplication:17 - the application run success.
+2018-08-15 08:57:12 INFO  DataAcquisitionAndTransmissionApplication:18 - the application run success.
+2018-08-15 08:57:30 INFO  ScheduledTasks:25 - before task
+2018-08-15 08:57:31 INFO  PackagingAttchment:55 - 196
+2018-08-15 08:57:31 INFO  SendEmail:31 - send begin
+2018-08-15 08:57:32 INFO  SendEmail:52 - send over
+2018-08-15 08:57:32 INFO  ScheduledTasks:29 - end task
+2018-08-15 10:11:01 INFO  DataAcquisitionAndTransmissionApplication:18 - the application is running
+2018-08-15 10:11:02 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:11:04 INFO  Query:72 - com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+2018-08-15 10:11:05 INFO  Query:114 - com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+2018-08-15 10:11:05 INFO  SendEmail:31 - send begin
+2018-08-15 10:11:06 INFO  SendEmail:52 - send over
+2018-08-15 10:11:06 INFO  ScheduledTasks:28 - end task
+2018-08-15 10:11:07 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:11:07 INFO  Query:72 - com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+2018-08-15 10:11:07 INFO  Query:114 - com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+2018-08-15 10:11:07 INFO  SendEmail:31 - send begin
+2018-08-15 10:11:08 INFO  SendEmail:52 - send over
+2018-08-15 10:11:08 INFO  ScheduledTasks:28 - end task
+2018-08-15 10:11:09 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:11:13 INFO  Query:72 - com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+2018-08-15 10:11:14 INFO  Query:114 - com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+2018-08-15 10:11:14 INFO  SendEmail:31 - send begin
+2018-08-15 10:11:15 INFO  SendEmail:52 - send over
+2018-08-15 10:11:15 INFO  ScheduledTasks:28 - end task
+2018-08-15 10:11:16 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:11:16 INFO  Query:72 - com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+2018-08-15 10:23:48 INFO  DataAcquisitionAndTransmissionApplication:18 - the application is running
+2018-08-15 10:24:00 INFO  ScheduledTasks:25 - before task
+2018-08-15 10:24:03 INFO  SendEmail:31 - send begin
+2018-08-15 10:24:04 INFO  SendEmail:52 - send over
+2018-08-15 10:24:04 INFO  ScheduledTasks:29 - end task
+2018-08-15 10:39:56 INFO  DataAcquisitionAndTransmissionApplication:18 - the application is running
+2018-08-15 10:40:22 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:40:24 INFO  SendEmail:31 - send begin
+2018-08-15 10:40:25 INFO  SendEmail:52 - send over
+2018-08-15 10:40:25 INFO  ScheduledTasks:28 - end task
+2018-08-15 10:42:07 INFO  DataAcquisitionAndTransmissionApplication:18 - the application is running
+2018-08-15 10:42:42 INFO  DataAcquisitionAndTransmissionApplication:18 - the application is running
+2018-08-15 10:43:10 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:43:12 INFO  SendEmail:31 - send begin
+2018-08-15 10:43:13 INFO  SendEmail:52 - send over
+2018-08-15 10:43:13 INFO  ScheduledTasks:28 - end task
+2018-08-15 10:45:20 INFO  DataAcquisitionAndTransmissionApplication:18 - the application is running
+2018-08-15 10:46:10 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:46:51 INFO  SendEmail:31 - send begin
+2018-08-15 10:46:55 INFO  SendEmail:52 - send over
+2018-08-15 10:46:55 INFO  ScheduledTasks:28 - end task
+2018-08-15 10:53:35 INFO  DataAcquisitionAndTransmissionApplication:18 - the application is running
+2018-08-15 10:54:00 INFO  ScheduledTasks:24 - before task
+2018-08-15 10:54:20 ERROR PackagingAttchment:72 - java.io.FileNotFoundException: Avaya_User_Report_08152018.xls (另一个程序正在使用此文件，进程无法访问。)
+2018-08-15 10:54:20 INFO  SendEmail:31 - send begin
+2018-08-15 10:54:28 INFO  SendEmail:52 - send over
+2018-08-15 10:54:28 INFO  ScheduledTasks:28 - end task
+2018-08-15 11:00:06 INFO  Avaya:18 - the application is running
+2018-08-15 11:00:10 INFO  ScheduledTasks:24 - before task
+2018-08-15 11:00:37 INFO  Query:134 - com.microsoft.sqlserver.jdbc.SQLServerException: An error occurred while converting the nvarchar value to JDBC data type INTEGER.
+2018-08-15 11:00:38 INFO  SendEmail:31 - send begin
+2018-08-15 11:00:41 INFO  SendEmail:52 - send over
+2018-08-15 11:00:41 INFO  ScheduledTasks:28 - end task
+2018-08-15 11:01:36 INFO  Avaya:18 - the application is running
+2018-08-15 11:02:00 INFO  ScheduledTasks:24 - before task
+2018-08-15 11:04:54 INFO  Avaya:18 - the application is running
+2018-08-15 11:05:00 INFO  ScheduledTasks:24 - before task
+2018-08-15 11:06:27 INFO  SendEmail:31 - send begin
+2018-08-15 11:06:44 INFO  SendEmail:52 - send over
+2018-08-15 11:06:44 INFO  ScheduledTasks:28 - end task
+2018-08-15 11:08:38 INFO  Avaya:18 - the application is running
+2018-08-15 11:09:00 INFO  ScheduledTasks:24 - before task
+2018-08-15 11:10:40 INFO  Query:134 - com.microsoft.sqlserver.jdbc.SQLServerException: Incorrect syntax near the keyword 'by'.
+2018-08-15 11:10:41 INFO  SendEmail:31 - send begin
+2018-08-15 11:10:47 INFO  SendEmail:52 - send over
+2018-08-15 11:10:47 INFO  ScheduledTasks:28 - end task
+2018-08-15 11:11:56 INFO  Avaya:18 - the application is running
+2018-08-15 11:12:00 INFO  ScheduledTasks:24 - before task
+2018-08-15 11:12:42 INFO  SendEmail:31 - send begin
+2018-08-15 11:12:51 INFO  SendEmail:52 - send over
+2018-08-15 11:12:51 INFO  ScheduledTasks:28 - end task
+2018-08-15 11:14:16 INFO  Avaya:18 - the application is running
+2018-08-15 11:14:45 INFO  Avaya:18 - the application is running
+2018-08-15 11:15:00 INFO  ScheduledTasks:24 - before task
+2018-08-15 11:15:56 INFO  SendEmail:31 - send begin
+2018-08-15 11:16:00 INFO  SendEmail:52 - send over
+2018-08-15 11:16:00 INFO  ScheduledTasks:28 - end task
+2018-08-15 11:21:16 INFO  Avaya:18 - the application is running
+2018-08-15 11:22:00 INFO  ScheduledTasks:24 - before task
+2018-08-15 11:22:26 INFO  SendEmail:31 - send begin
+2018-08-15 11:22:32 INFO  SendEmail:52 - send over
+2018-08-15 11:22:32 INFO  ScheduledTasks:28 - end task
+2018-08-16 09:23:01 INFO  Avaya:18 - the application is running
+2018-08-16 09:23:29 INFO  Avaya:18 - the application is running
+2018-08-16 09:24:00 INFO  ScheduledTasks:25 - before task
+2018-08-16 09:25:39 INFO  Query:135 - com.microsoft.sqlserver.jdbc.SQLServerException: Column 'ACCCM.dbo.sites.Location' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.
+2018-08-16 09:25:41 INFO  SendEmail:31 - send begin
+2018-08-16 09:25:46 INFO  SendEmail:52 - send over
+2018-08-16 09:25:46 INFO  DaoUtil:76 - deleteAvaya_User_Report_08162018.xlssuccess
+2018-08-16 09:25:46 INFO  ScheduledTasks:29 - end task
+2018-08-16 11:29:59 INFO  Avaya:23 - the application is running
+2018-08-16 11:30:00 INFO  ScheduledTasks:30 - before task
+2018-08-16 11:32:34 INFO  SendEmail:36 - send begin
+2018-08-16 11:32:43 INFO  SendEmail:57 - send over
+2018-08-16 11:32:43 INFO  Util:64 - deleteAvaya_User_Report_08162018.xlssuccess
+2018-08-16 11:32:43 INFO  ScheduledTasks:34 - end task
+2018-08-16 11:33:45 INFO  Avaya:23 - the application is running
+2018-08-16 11:34:00 INFO  ScheduledTasks:30 - before task
+2018-08-16 11:36:05 INFO  SendEmail:36 - send begin
+2018-08-16 11:36:09 INFO  SendEmail:57 - send over
+2018-08-16 11:36:09 INFO  ScheduledTasks:34 - end task
+2018-08-16 15:51:09 INFO  Avaya:23 - the application is running
+2018-08-16 15:51:29 INFO  Avaya:23 - the application is running
+2018-08-16 15:51:40 INFO  ScheduledTasks:29 - before task
+2018-08-16 15:57:18 INFO  Query:144 - 
+2018-08-16 15:57:18 INFO  Query:145 - 
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 13
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Agent
+2018-08-16 15:57:18 INFO  Query:147 - 85
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Analog_Phone_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 67
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B179_SIP_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 8
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 20
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Core_9608_H323_1XC_AAM_Basic_Gen_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 3193
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - DMCC_Station_PLUS_TSAPI_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 100
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - DMCC_Station_PLUS_TSAPI_DR_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 100
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Power_9608_H323_1XC_AAM_Adv_Gen_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 10
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|51657081
+2018-08-16 15:57:18 INFO  Query:146 - Power_AAM_Adv_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 10
+2018-08-16 15:57:18 INFO  Query:144 - CBNA#4404812|51657081
+2018-08-16 15:57:18 INFO  Query:145 - CBNA|ADAMS|5289539
+2018-08-16 15:57:18 INFO  Query:146 - Core_9608_H323_1XC_AAM_Basic_Gen_CBNA
+2018-08-16 15:57:18 INFO  Query:147 - 13
+2018-08-16 15:57:18 INFO  Query:144 - CCO#205046828|0051587857
+2018-08-16 15:57:18 INFO  Query:145 - CCO|Admins|0
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 3
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 4
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Agent
+2018-08-16 15:57:18 INFO  Query:147 - 45
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Analog_Phone_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 187
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 7
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Core_9608_H323_1XC_AAM_Basic_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 557
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Core_9630_SIP_1XC_AAM_Basic_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 104
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - DMCC_Station_PLUS_TSAPI_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 50
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - DMCC_Station_PLUS_TSAPI_DR_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 50
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_AAM_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 19
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 3
+2018-08-16 15:57:18 INFO  Query:144 - CHS#207655701|0051587858
+2018-08-16 15:57:18 INFO  Query:145 - CHS|0051587858
+2018-08-16 15:57:18 INFO  Query:146 - Power_9608_H323_1XC_AAM_Adv_CHS
+2018-08-16 15:57:18 INFO  Query:147 - 433
+2018-08-16 15:57:18 INFO  Query:144 - CM6
+2018-08-16 15:57:18 INFO  Query:145 - CM6_Site
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 26
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - 
+2018-08-16 15:57:18 INFO  Query:147 - 134
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 19
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Agent
+2018-08-16 15:57:18 INFO  Query:147 - 2034
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9611_H323_1XC_AAM_Basic_DE
+2018-08-16 15:57:18 INFO  Query:147 - 325
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9611_H323_1XC_DE
+2018-08-16 15:57:18 INFO  Query:147 - 59
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9611_H323_CC_AAM_DE
+2018-08-16 15:57:18 INFO  Query:147 - 3
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_AAM_DE
+2018-08-16 15:57:18 INFO  Query:147 - 25
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_DE
+2018-08-16 15:57:18 INFO  Query:147 - 1848
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_Sup_AAM_DE
+2018-08-16 15:57:18 INFO  Query:147 - 28
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_Sup_DE
+2018-08-16 15:57:18 INFO  Query:147 - 106
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_AAM_Basic_DE
+2018-08-16 15:57:18 INFO  Query:147 - 116
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_B189_H323_DE
+2018-08-16 15:57:18 INFO  Query:147 - 41
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_DMCC_Station_PLUS_TSAPI_DE
+2018-08-16 15:57:18 INFO  Query:147 - 2000
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_DMCC_Station_PLUS_TSAPI_DR_DE_NoCost
+2018-08-16 15:57:18 INFO  Query:147 - 2000
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Mobility_9611_H323_1XC_AAM_Adv_DE
+2018-08-16 15:57:18 INFO  Query:147 - 146
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Mobility_9611_H323_1XC_AAM_Adv_EC500_DE
+2018-08-16 15:57:18 INFO  Query:147 - 55
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Mobility_AAM_Adv_DE
+2018-08-16 15:57:18 INFO  Query:147 - 11
+2018-08-16 15:57:18 INFO  Query:144 - DE#67813376|51432420
+2018-08-16 15:57:18 INFO  Query:145 - DE Office|51432420
+2018-08-16 15:57:18 INFO  Query:146 - Supervisor
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - EMP#204579523|51568375
+2018-08-16 15:57:18 INFO  Query:145 - Empereon Marketing
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 19
+2018-08-16 15:57:18 INFO  Query:144 - EMP#204579523|51568375
+2018-08-16 15:57:18 INFO  Query:145 - Empereon Marketing
+2018-08-16 15:57:18 INFO  Query:146 - Agent
+2018-08-16 15:57:18 INFO  Query:147 - 359
+2018-08-16 15:57:18 INFO  Query:144 - EMP#204579523|51568375
+2018-08-16 15:57:18 INFO  Query:145 - Empereon Marketing
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9608_H323_CC_EMP
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - EMP#204579523|51568375
+2018-08-16 15:57:18 INFO  Query:145 - Empereon Marketing
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_EMP
+2018-08-16 15:57:18 INFO  Query:147 - 288
+2018-08-16 15:57:18 INFO  Query:144 - EMP#204579523|51568375
+2018-08-16 15:57:18 INFO  Query:145 - Empereon Marketing
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_Sup_EMP
+2018-08-16 15:57:18 INFO  Query:147 - 26
+2018-08-16 15:57:18 INFO  Query:144 - EMP#204579523|51568375
+2018-08-16 15:57:18 INFO  Query:145 - Empereon Marketing
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_DMCC_Station_PLUS_TSAPI_EMP
+2018-08-16 15:57:18 INFO  Query:147 - 751
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|BUFFALO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|BUFFALO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 7
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|DEFAULT|
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 26
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|DEFAULT|
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 4
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|GARDEN_CITY|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|GREENSBORO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|GREENSBORO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 5
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|GREENSBORO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 12
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|GREENSBORO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 13
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|HARTFORD|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|HARTFORD|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 3
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|HARTFORD|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 13
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|HARTFORD|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 11
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|L.A.|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_4610_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|L.A.|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|L.A.|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|L.A.|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 4
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|L.A.|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|MIAMI|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|MIAMI|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|MIAMI|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 8
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|MIAMI|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 6
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEW_YORK|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEWARK|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEWARK|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEWARK|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 21
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEWARK|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 13
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEWPORT_BEACH|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEWPORT_BEACH|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 4
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|NEWPORT_BEACH|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|ORLANDO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|ORLANDO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 2
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|ORLANDO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 3
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|ORLANDO|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 3
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PHILADELPHIA|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PHILADELPHIA|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 6
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PHILADELPHIA|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 33
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PHILADELPHIA|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 23
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PRINCETON|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 4
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PRINCETON|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 5
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PRINCETON|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 26
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|PRINCETON|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 35
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|RALEIGH|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 1
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|WPB|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Basic_B189_H323_GS
+2018-08-16 15:57:18 INFO  Query:147 - 3
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|WPB|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Assistant_GS
+2018-08-16 15:57:18 INFO  Query:147 - 7
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|WPB|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Exe_GS
+2018-08-16 15:57:18 INFO  Query:147 - 7
+2018-08-16 15:57:18 INFO  Query:144 - GSL #67461826|51657077
+2018-08-16 15:57:18 INFO  Query:145 - GSL|WPB|xxxxxx
+2018-08-16 15:57:18 INFO  Query:146 - Core_9650_H323_1XC_AAM_Basic_Gen_GS
+2018-08-16 15:57:18 INFO  Query:147 - 11
+2018-08-16 15:57:18 INFO  Query:144 - IAF#204410627|0051678126
+2018-08-16 15:57:18 INFO  Query:145 - IAF Office | 0051678126
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 14
+2018-08-16 15:57:18 INFO  Query:144 - IAF#204410627|0051678126
+2018-08-16 15:57:18 INFO  Query:145 - IAF Office | 0051678126
+2018-08-16 15:57:18 INFO  Query:146 - Agent
+2018-08-16 15:57:18 INFO  Query:147 - 11
+2018-08-16 15:57:18 INFO  Query:144 - IAF#204410627|0051678126
+2018-08-16 15:57:18 INFO  Query:145 - IAF Office | 0051678126
+2018-08-16 15:57:18 INFO  Query:146 - Core_9608_H323_1XC_AAM_Basic_Gen_IAF
+2018-08-16 15:57:18 INFO  Query:147 - 96
+2018-08-16 15:57:18 INFO  Query:144 - IAF#204410627|0051678126
+2018-08-16 15:57:18 INFO  Query:145 - IAF Office | 0051678126
+2018-08-16 15:57:18 INFO  Query:146 - Foundation_9630_H323_CC_1XAgent_IAF
+2018-08-16 15:57:18 INFO  Query:147 - 10
+2018-08-16 15:57:18 INFO  Query:144 - MHT#5769674|51454529
+2018-08-16 15:57:18 INFO  Query:145 - MHT Office|51454529
+2018-08-16 15:57:18 INFO  Query:146 - Administrator
+2018-08-16 15:57:18 INFO  Query:147 - 9
+2018-08-16 15:57:19 INFO  SendEmail:36 - send begin
+2018-08-16 15:57:36 INFO  SendEmail:57 - send over
+2018-08-16 15:57:36 INFO  ScheduledTasks:33 - end task
+2018-08-16 16:01:07 INFO  Avaya:23 - the application is running
+2018-08-16 16:01:30 INFO  Avaya:23 - the application is running
+2018-08-16 16:01:50 INFO  Avaya:23 - the application is running
+2018-08-16 16:02:03 INFO  ScheduledTasks:29 - before task
+2018-08-16 16:22:37 INFO  Query:87 - com.microsoft.sqlserver.jdbc.SQLServerException: Software caused connection abort: recv failed
+2018-08-16 16:22:37 ERROR Util:27 - com.microsoft.sqlserver.jdbc.SQLServerException: The connection is closed.
+2018-08-16 16:23:07 INFO  Query:154 - java.sql.SQLTransientConnectionException: HikariPool-1 - Connection is not available, request timed out after 30001ms.
+2018-08-16 16:23:07 INFO  PackagingAttchment:61 - ******************0
+2018-08-16 16:23:08 INFO  SendEmail:36 - send begin
+2018-08-16 16:23:10 INFO  SendEmail:57 - send over
+2018-08-16 16:23:10 INFO  ScheduledTasks:33 - end task
+2018-08-16 16:44:26 INFO  Avaya:23 - the application is running
+2018-08-16 16:44:53 INFO  Avaya:23 - the application is running
+2018-08-16 16:45:03 INFO  ScheduledTasks:29 - before task
+2018-08-16 16:45:30 INFO  PackagingAttchment:61 - ******************101
+2018-08-16 16:45:31 INFO  SendEmail:36 - send begin
+2018-08-16 17:19:35 INFO  Avaya:23 - the application is running
+2018-08-16 17:20:20 INFO  ScheduledTasks:29 - before task
+2018-08-16 17:20:44 INFO  Query:152 - com.microsoft.sqlserver.jdbc.SQLServerException: An error occurred while converting the nvarchar value to JDBC data type INTEGER.
+2018-08-16 17:20:44 INFO  PackagingAttchment:61 - ******************0
+2018-08-16 17:20:45 INFO  SendEmail:36 - send begin
+2018-08-16 17:21:08 INFO  SendEmail:57 - send over
+2018-08-16 17:21:08 INFO  ScheduledTasks:33 - end task
+2018-08-16 17:25:44 INFO  Avaya:23 - the application is running
+2018-08-16 17:26:24 INFO  Avaya:23 - the application is running
+2018-08-16 17:28:20 INFO  ScheduledTasks:29 - before task
+2018-08-16 17:28:55 INFO  PackagingAttchment:61 - ******************101
+2018-08-16 17:28:56 INFO  SendEmail:36 - send begin
+2018-08-16 17:29:13 INFO  SendEmail:57 - send over
+2018-08-16 17:29:13 INFO  ScheduledTasks:33 - end task
